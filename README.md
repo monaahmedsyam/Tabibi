@@ -1,2 +1,2 @@
 # Tabibi
-Tabibi - Integrated Healthcare Platform
+Tabibi - Healthcare Mobile Application
